@@ -1,0 +1,15 @@
+.HomeDiv{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    h1{
+        padding: 1rem 0;
+        text-align: center;
+    }
+   
+}
